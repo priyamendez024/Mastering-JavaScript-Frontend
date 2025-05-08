@@ -1,0 +1,1 @@
+console.log('Chapter 10: Performance Optimization in React')

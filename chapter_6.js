@@ -1,0 +1,1 @@
+console.log('Chapter 6: Lifecycle Methods in React')

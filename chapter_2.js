@@ -1,0 +1,1 @@
+console.log('Chapter 2: Understanding JavaScript Fundamentals')
